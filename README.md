@@ -1,5 +1,7 @@
 # Vad jag lärt mig och andvänt mig med i terminalen gällande projekt skapande, navigering och git
 
+### Detta är en mix av kommandon jag lärt mig under föreläsning, kunnat på egen hand sedan tidigare och som jag lärt mig genom egen research.
+
 - **Terminalen**
 
   - PWD - se vart jag är (min path)
@@ -55,3 +57,5 @@
 https://git-scm.com/docs/git
 
 https://about.gitlab.com/images/press/git-cheat-sheet.pdf
+
+https://www.markdownguide.org/basic-syntax/

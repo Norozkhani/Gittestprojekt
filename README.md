@@ -42,6 +42,8 @@
 
   - git commit -m"meddelande" - comitta filerna man lagt till som är redo att pushas med ett commit meddelande
 
+  - git push - pusha det man har committat
+
   - git restor filnamn - ta bort alla nya ändringar i filen
 
   - git fetch - hämta ner nya ändringar som skett på repon (lokalt)

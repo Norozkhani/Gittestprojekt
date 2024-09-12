@@ -8,7 +8,9 @@
 
   - LS - Se vad som finns i den mappen/filen jag är inne i
 
-  - CD - gå till/djupare in i mappar/filer
+  - CD filnamn - gå till/djupare in i mappar/filer
+
+  - CD filnamn/filnamn/filnamn - gå ännu djupare i mappar/filer så man slipper gå 1 åt taget
 
   - ../ - backa ett steg
 

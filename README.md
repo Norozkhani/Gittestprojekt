@@ -38,6 +38,12 @@ git branch -d branchnamn - ta bort branch när man mergat den
 
 git status - se filer med ändringar i och om de e comittade eller inte
 
-git add filnamn - lägga till fil som man vill puscha till branchen
+git add filnamn - lägga till fil som man vill comitta till branchen
+
+git commit - comitta filerna man lagt till som är redo att pushas
 
 git restor filnamn - ta bort alla nya ändringar i filen
+
+git fetch - hämta ner nya ändringar som skett på repon (lokalt)
+
+git pull - hämta ner alla nya ändringar som skett på repon

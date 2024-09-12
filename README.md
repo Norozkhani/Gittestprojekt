@@ -20,7 +20,7 @@
 
   - echo "string" filnamn.txt - skapa en fil med text i
 
-  - rmdir -d filnamn - ta bort fil
+  - rm filnamn - ta bort filer
 
   - code . - Öppna filen i vscode
 
